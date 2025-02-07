@@ -8,6 +8,8 @@ Credits:
     jellysquid (made sodium)
     ChlorineMC (made the legacy fabric 1.8.9 port)
 
+This mod is not compatible with Optifine.
+This mod will probably have issues.
 I will likely never touch this again.
 
 Compile Yourself:
