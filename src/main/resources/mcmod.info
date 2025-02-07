@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Vintagium",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "updateUrl": "",
+    "authorList": [
+      "Christian"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

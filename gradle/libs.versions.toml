@@ -1,0 +1,9 @@
+[versions]
+joml = "1.10.5"
+fastutil = "8.5.6"
+lombok = "1.18.32"
+
+[libraries]
+joml = { module = "org.joml:joml", version.ref = "joml" }
+fastutil = { module = "it.unimi.dsi:fastutil", version.ref = "fastutil" }
+lombok = { module = "org.projectlombok:lombok", version.ref = "lombok" }
